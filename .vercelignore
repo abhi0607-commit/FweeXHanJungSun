@@ -1,0 +1,8 @@
+# Original source images and recordings live in the project root; the site only needs the
+# web-ready copies in public/. Keeping these out makes a Vercel upload small and fast.
+/*.png
+/*.jpg
+/*.jpeg
+/*.mov
+/node_modules
+/dist
