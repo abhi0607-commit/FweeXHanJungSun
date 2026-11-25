@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Open the address Vite prints (usually http://localhost:5173](https://fweexhanjungsun.vercel.app/).
+Project Link: https://fweexhanjungsun.vercel.app/
 
 To check the production build:
 
